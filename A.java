@@ -3,9 +3,9 @@ package a;
 class A {
 
 	public void m1() {
-		int a = 0;
-		a = 10;
-		System.out.println(a);
+		int b = 0;
+		b = 10;
+		System.out.println(b);
 	}
 
 }
