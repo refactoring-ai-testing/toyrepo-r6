@@ -14,12 +14,7 @@ public class A {
 
 	public void m2() {
 
-		int a = 10;
-		int b = 20;
-
-		int c = a + b;
-
-		System.out.println(c);
+		new Utils().m2copy();
 	}
 
 }
